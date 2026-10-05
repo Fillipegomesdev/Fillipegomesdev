@@ -4,7 +4,7 @@ Sou estudante de Engenharia de Software (3º semestre) e profissional com sólid
 
 🎯 Objetivo e Transição
 
-Estou em um momento de transição definitiva de carreira. Meu foco é aplicar meu perfil analítico e minha disciplina em áreas de Tecnologia (Front-end | Fullstack) ou em funções Administrativas/Logísticas que demandem organização de dados e otimização de fluxos. Possuo total disponibilidade para início imediato em novos desafios profissionais.
+Estou em um momento de transição definitiva de carreira. Meu foco é aplicar meu perfil analítico e minha disciplina em áreas de Tecnologia (Front-end | Fullstack) ou em funções Administrativas/Logísticas que demandem organização de dados e otimização de fluxos.
 
 
 💻 Stack Técnica & Ferramentas
